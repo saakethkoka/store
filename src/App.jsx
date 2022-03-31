@@ -1,8 +1,8 @@
-
+import ProductDetails from "./components/products/productDetails";
 
 function App() {
   return (
-    <h2>Hello World</h2>
+    <ProductDetails/>
   );
 }
 
